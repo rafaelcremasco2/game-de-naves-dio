@@ -15,12 +15,12 @@ function start() {
     var podeAtirar = true;
     var fimdejogo = false;
     var pontos = 0;
-    var salvos = 0;
     var perdidos = 0;
     var energiaAtual = 3;
+    var salvos = 0;
+    var musica = document.getElementById("musica");
     var somDisparo = document.getElementById("somDisparo");
     var somExplosao = document.getElementById("somExplosao");
-    var musica = document.getElementById("musica");
     var somGameover = document.getElementById("somGameover");
     var somPerdido = document.getElementById("somPerdido");
     var somResgate = document.getElementById("somResgate");

@@ -275,3 +275,7 @@ footer {
 	margin-right: auto;
 	font-family: 'Roboto';
 }
+
+#reinicia {
+	cursor: pointer;
+}
